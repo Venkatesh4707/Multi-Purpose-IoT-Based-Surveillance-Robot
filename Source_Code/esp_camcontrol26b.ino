@@ -2,8 +2,8 @@
 #include <WiFi.h>
 
 // ================= WIFI =================
-const char* ssid = "Mr perfect";
-const char* password = "perfect4707";
+const char* ssid = " ***** ";
+const char* password = " ***** ";
 
 // ================= CAMERA MODEL =================
 #define CAMERA_MODEL_AI_THINKER
