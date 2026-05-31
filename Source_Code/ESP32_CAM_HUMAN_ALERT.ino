@@ -6,16 +6,16 @@
 #include "camera_pins.h"
 
 /* ================= WIFI ================= */
-const char* ssid = "Mr perfect";
-const char* password = "perfect4707";
+const char* ssid = " **** ";
+const char* password = " **** ";
 
 /* ================= EMAIL ================= */
-#define SMTP_HOST "smtp.gmail.com"
+#define SMTP_HOST " ****** "
 #define SMTP_PORT 465
 
-#define AUTHOR_EMAIL "venkateshsagar4707@gmail.com"
-#define AUTHOR_PASSWORD "gflqrgdyrfuodqbz"
-#define RECIPIENT_EMAIL "venkateshsagar0446@gmail.com"
+#define AUTHOR_EMAIL " ******** "
+#define AUTHOR_PASSWORD " ******* "
+#define RECIPIENT_EMAIL " ******* "
 
 SMTPSession smtp;
 bool emailSent = false;
